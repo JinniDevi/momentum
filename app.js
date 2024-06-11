@@ -1,8 +1,10 @@
 const a = 5;
 const b = 2;
-const myName = "leeji";
+let myName = "leeji";
 
 console.log(a + b);
 console.log(a * b);
 console.log(a / b);
+
+myName = "yeeji";
 console.log("Hello " + myName);
